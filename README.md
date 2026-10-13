@@ -14,7 +14,7 @@
 
 ---
 
-## 🌈 A Little About Me
+## A Little About Me
 
 I'm pursuing a **BS in Data Science at the Institute of Business Management (IoBM), Karachi (2023–2027)**.
 
@@ -34,8 +34,8 @@ I'm interested in using data to understand problems, building machine learning s
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SPSS](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🤖 Machine Learning & Visualization
 
